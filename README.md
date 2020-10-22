@@ -5,9 +5,15 @@ The project provides various features of CRUD  operations that can be tested in 
 Embedded databse H2 has been run which can be executed via http://localhost:8080/h2-console/
 
 1> Clone the https://github.com/Poojan240/Contact-Entry-System.git to the local diretory.
+
 2> Import the project as a maven project to the respective IDE.
+
 3> Execute mvn clean install for building the project.
+
 4> Run the TestExamApplication to run the project.
+
 5> For running the test execute ApiTest.
+
 6> Various CRUD operations can be performed using POSTMAN.
+
 http://localhost:8080/contacts/
