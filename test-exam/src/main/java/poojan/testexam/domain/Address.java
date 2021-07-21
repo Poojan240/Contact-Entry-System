@@ -5,6 +5,7 @@ import lombok.Setter;
 
 import javax.persistence.*;
 
+//This is a test message.
 @Getter
 @Setter
 @Embeddable
